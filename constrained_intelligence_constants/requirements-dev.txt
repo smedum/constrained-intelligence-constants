@@ -1,0 +1,33 @@
+
+# Development dependencies for Constrained Intelligence Constants
+
+# Testing
+pytest>=6.0.0
+pytest-cov>=2.10.0
+pytest-xdist>=2.0.0
+
+# Code quality
+black>=21.0
+flake8>=3.8.0
+mypy>=0.800
+pylint>=2.6.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0
+
+# Notebooks and visualization
+jupyter>=1.0.0
+notebook>=6.0.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+plotly>=4.14.0
+
+# Development utilities
+ipython>=7.20.0
+ipdb>=0.13.0
+
+# Package building
+build>=0.7.0
+twine>=3.4.0
+wheel>=0.36.0

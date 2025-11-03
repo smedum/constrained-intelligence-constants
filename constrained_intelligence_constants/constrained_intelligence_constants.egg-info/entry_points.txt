@@ -1,0 +1,3 @@
+[console_scripts]
+ci-constants-validate = validation.experimental_validation:main
+
